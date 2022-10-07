@@ -1,7 +1,7 @@
 
 ![Logo](https://docs.pytest.org/en/7.1.x/_static/pytest_logo_curves.svg)
 
-
+[![Python application](https://github.com/allissonaraujo/Pytest-Coverage-Testing-Toools/actions/workflows/python-app.yml/badge.svg)](https://github.com/allissonaraujo/Pytest-Coverage-Testing-Toools/actions/workflows/python-app.yml)
 # Pytest com Coverage
 
 Trabalho de ferramentas de testes para fins avaliativos para a banca de Testes de Software ministrada pelo professor Breno.
